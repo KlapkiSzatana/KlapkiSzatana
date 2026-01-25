@@ -7,4 +7,4 @@ Tworzę oprogramowanie, wykorzystując AI jako główne wsparcie deweloperskie. 
 **Charakter repozytorium:**
 * 🏠 Projekty hobbystyczne i prywatne (tworzone głównie dla mnie, rodziny i znajomych)
 * 🛠️ Użyteczne aplikacje i narzędzia
-* 🧪 Kod tworzony metodą prób i błędów
+* 🧪 Kod tworzony metodą prób i błędów (Python)
