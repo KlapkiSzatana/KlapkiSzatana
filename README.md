@@ -8,4 +8,4 @@ Tworzę oprogramowanie, wykorzystując AI.
 * 🏠 Projekty hobbystyczne i prywatne (tworzone głównie dla mnie, rodziny i znajomych)
 * 🛠️ Użyteczne aplikacje i narzędzia
 * 🧪 Kod tworzony metodą prób i błędów (Python) w większości przy pomocy AI
-* ⚠️ Jeśli widzisz jakieś niedociągnięcia, źle przygotowany plik - daj znać (nie wiem wszystkiego - uczę się...)
+* ⚠️ Jeśli widzisz jakieś niedociągnięcia, źle przygotowany plik - daj znać (nie wiem wszystkiego...)
