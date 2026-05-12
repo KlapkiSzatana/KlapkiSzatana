@@ -80,6 +80,7 @@ Jeśli zauważysz:
 
 Moje aplikacje są rozwijane głównie z myślą o:
 - **Linux**
+
 w drugiej kategorii są
 - Windows
 - macOS
